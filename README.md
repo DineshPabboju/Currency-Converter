@@ -34,11 +34,10 @@ A simple and efficient currency converter web application built using HTML, CSS,
 ## 📂 Project Structure
 
 Currency-Converter/
-├── index.html         # Main HTML file (UI layout)
-├── style.css          # CSS file for styling the UI
-├── script.js          # JavaScript file for logic and API interaction
-├── README.md          # Project documentation (to be added/updated)
-
+├── index.html         # Main HTML file for the web app layout
+├── style.css          # CSS file for styling the application
+├── app.js          # JavaScript file for logic and API interaction
+├── README.md          # Documentation for the project
 
 
 ---
