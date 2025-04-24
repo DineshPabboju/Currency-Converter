@@ -27,7 +27,7 @@ A simple and efficient currency converter web application built using HTML, CSS,
 ## 📸 Demo
 
 ![Currency Converter Screenshot](screenshot.png)  
-*(Include a screenshot of your app's UI if available)*
+
 
 ---
 
